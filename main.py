@@ -39,7 +39,7 @@ class MainPage(webapp2.RequestHandler):
                     </textarea>
                   </div>
                   <div>
-                    <input type="submit" value="Sign Guestbook">
+                    <input type="submit" value="Sign The Guestbook">
                   </div>
                 </form>
                 <hr>
